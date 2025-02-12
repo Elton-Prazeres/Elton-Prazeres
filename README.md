@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calistoga&weight=500&size=22&duration=4000&pause=1000&color=8CF71D&vCenter=true&width=500&lines=++%E2%8A%B9+Bem+vindo(a)+ao+meu+Perfil!😎+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)](https://git.io/typing-svg)
-<h1 align="left"> EltonDEV - Elton Prazeres</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calistoga&weight=500&size=22&duration=4000&pause=1000&color=8CF71D&vCenter=true&width=500&lines=++%E2%8A%B9+You+are+very+welcome!😎+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)](https://git.io/typing-svg)
+<h1 align="center"> Seja bem vindo(a) ao meu Perfil! EltonDEV - Elton Prazeres</h1>
 Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me manter atualizado. Disponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
 <h1></h1>
 <img align="right" alt="" height="195px" src="./src/Coding.gif">
