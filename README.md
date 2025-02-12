@@ -1,11 +1,13 @@
-## Bem-vindo(a) ao perfil do Elton Prazeres 😁
+## Bem-vindo(a) ao perfil do Elton Prazeres 😎
 
- <div>
-   <a href="https://github.com/Elton-Prazeres">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elton-Prazeres&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Prazeres&layout=compact&langs_count=6&theme=chartreuse-dark"/>
-</div>
-    
+<br>
+Sobre:
+<br>
+# Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me atualizar. dísponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
+
+<br>
+Hard Skills ~
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,6 +17,18 @@
  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
+<br>
+Atividade
+<br>
+
+ <div>
+   <a href="https://github.com/Elton-Prazeres">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elton-Prazeres&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton-Prazeres&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+</div>
+    
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elton-Prazeres/Elton-Prazeres/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elton-Prazeres/Elton-Prazeres/output/github-contribution-grid-snake-dark.svg">
@@ -22,7 +36,11 @@
 </picture>
  
 <br>
- 
+
+Contate-me
+
+<br>
+
 <div> 
   <a href="https://www.youtube.com/channel/UCQyoVlZ1Ww9mmrpLIlg43Kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elton.hime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
