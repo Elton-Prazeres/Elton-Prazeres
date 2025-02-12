@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calistoga&weight=500&size=22&duration=4000&pause=1000&color=8CF71D&vCenter=true&width=500&lines=++%E2%8A%B9+Bem+vindo+ao+meu+Perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calistoga&weight=500&size=22&duration=4000&pause=1000&color=8CF71D&vCenter=true&width=500&lines=++%E2%8A%B9+Bem+vindo(a)+ao+meu+Perfil!😎+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)](https://git.io/typing-svg)
 ## Bem-vindo(a) ao perfil do Elton Prazeres 😎
 
 <br>
