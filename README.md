@@ -1,12 +1,13 @@
 ## Bem-vindo(a) ao perfil do Elton Prazeres 😎
 
 <br>
-Sobre:
+Sobre mim...
 <br>
-# Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me atualizar. dísponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
+Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me atualizar. dísponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
 
 <br>
-Hard Skills ~
+Tecnologias 
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +20,7 @@ Hard Skills ~
 
 <br>
 Atividade
+<br>
 <br>
 
  <div>
@@ -38,7 +40,7 @@ Atividade
 <br>
 
 Contate-me
-
+<br>
 <br>
 
 <div> 
