@@ -1,12 +1,13 @@
 ## Bem-vindo(a) ao perfil do Elton Prazeres 😎
 
 <br>
-Sobre mim...
+### Sobre mim...
 <br>
+
 Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me atualizar. dísponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
 
 <br>
-Tecnologias 
+### Tecnologias 
 <br>
 
 <div style="display: inline_block"><br>
@@ -17,9 +18,9 @@ Tecnologias
  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
-
 <br>
-Atividade
+<br>
+### Atividade
 <br>
 <br>
 
@@ -36,13 +37,13 @@ Atividade
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elton-Prazeres/Elton-Prazeres/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elton-Prazeres/Elton-Prazeres/output/github-contribution-grid-snake.svg">
 </picture>
- 
-<br>
-
-Contate-me
 <br>
 <br>
-
+<br>
+### Contate-me
+<br>
+<br>
+<br>
 <div> 
   <a href="https://www.youtube.com/channel/UCQyoVlZ1Ww9mmrpLIlg43Kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elton.hime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
