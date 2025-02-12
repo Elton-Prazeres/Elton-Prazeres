@@ -2,7 +2,7 @@
 <h1 align="left"> EltonDEV - Elton Prazeres</h1>
 Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me manter atualizado. Disponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
 <br/>
-<hr>
+<h1></h1>
 <img align="right" alt="" height="220px" src="./src/Coding.gif">
 <br>
 <h3 align="left">Contate-me</h3>
