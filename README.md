@@ -2,8 +2,8 @@
 <h1 align="left"> EltonDEV - Elton Prazeres</h1>
 Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me manter atualizado. Disponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
 <h1></h1>
-<img align="right" alt="" height="200px" src="./src/Coding.gif">
-<h3 align="left">Contate-me</h3>
+<img align="right" alt="" height="195px" src="./src/Coding.gif">
+<h3 align="left">Contact me</h3>
 <div align="left"> 
   <a href="https://www.youtube.com/channel/UCQyoVlZ1Ww9mmrpLIlg43Kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elton.hime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@ Atualmente estudando JavaScript, buscando migração para área de programação
  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div><h1></h1>
-<h3 align="left">GItHub Status</h3>
+<h3 align="left">GItHub Stats</h3>
  <div>
    <a href="https://github.com/Elton-Prazeres">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elton-Prazeres&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
