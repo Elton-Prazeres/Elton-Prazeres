@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao perfil do Elton Prazeres 😎
 
 <br>
-### Sobre mim...
+# Sobre mim...
 <br>
 
 Atualmente estudando JavaScript, buscando migração para área de programação, formado em Gestão de TI, venho colecionando projetos e experiências de forma educacional para me atualizar. dísponível para viver a oportunidade que vai transformar minha vida e das pessoas as quais eu vou poder contribuir com minhas experiências e dedicação.
-
+<hr>
 <br>
 ### Tecnologias 
 <br>
