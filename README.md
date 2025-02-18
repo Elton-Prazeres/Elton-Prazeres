@@ -7,6 +7,7 @@ Atualmente estudando a base do FrontEnd, buscando migração para área de progr
 <h3 align="left">Contact me</h3>
 <div align="left"> 
   <a href="https://www.youtube.com/channel/UCQyoVlZ1Ww9mmrpLIlg43Kg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+   <a href="mailto:elton_hime20@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge target="_blank"></a> 
   <a href = "mailto:elton.hime@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elton-prazeres-31404b91" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
